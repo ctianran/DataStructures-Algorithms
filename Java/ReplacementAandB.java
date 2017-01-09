@@ -1,4 +1,4 @@
-package com.company;
+package com.chentianran;
 
 /**
  * Created by Tianran on 1/8/2017.
